@@ -1,0 +1,14 @@
+# Java compiled files
+*.class
+
+# Generated processing results
+processing_results.txt
+
+# Go build output
+*.exe
+*.test
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
